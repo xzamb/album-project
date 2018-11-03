@@ -7,11 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "merge": ">=1.2.1",
     "axios": "^0.18.0",
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.3"
   },
   "devDependencies": {
+    "merge": ">=1.2.1",
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
     "metro-react-native-babel-preset": "0.48.1",

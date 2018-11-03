@@ -4,7 +4,7 @@ import Card from './Card';
 import CardSection from './CardSection';
 import Button from './Button';
 
-const AlbumDetail = ({album}) =>{
+const AlbumDetail = ({albums}) =>{
     const { title, artist, thumbnail_image, image, url } = album;
     
     const { 
